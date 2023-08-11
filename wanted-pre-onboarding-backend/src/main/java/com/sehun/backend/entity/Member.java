@@ -49,7 +49,6 @@ public class Member implements UserDetails {
     public Member(MemberDTO memberDTO) {
         this.email = memberDTO.getEmail();
         this.password = memberDTO.getPassword();
-        this.roles = Arrays.asList("ROLE_USER");
 
     }
 
