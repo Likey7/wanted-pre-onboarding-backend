@@ -21,7 +21,7 @@
 - `member_roles`: 사용자의 권한 정보를 저장합니다. `Member` 테이블과 연관되어 있습니다.
 
 ## 구현한 API의 동작을 촬영한 데모 영상 링크
-- [데모 영상 링크](http://example.com)
+- [데모 영상 링크](https://youtu.be/nHT4MR504xc)
 
 ## 구현 방법 및 이유
 - Spring Boot와 JPA를 사용하여 웹 애플리케이션의 백엔드를 구현하였습니다.
